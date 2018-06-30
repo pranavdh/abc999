@@ -1,1 +1,2 @@
 Windows node - something changed
+Vagrant node - changed something in fix1.txt
